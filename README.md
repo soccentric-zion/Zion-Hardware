@@ -23,6 +23,10 @@ No build or test command is currently evidenced by the repository. Re-run `find 
 ## Limitations
 
 This repository contains no implementation evidence beyond metadata and documentation. Physical hardware status, board identity, and compatibility with Zion-HAL or Zion-OS are unknown.
+
+## Detailed Reference
+
+The retained placeholder guide below records the original description, setup, and usage prompts.
 # Zion-Hardware
 
 This is the README for Zion-Hardware.
